@@ -1,2 +1,7 @@
-# Remote-Sensing-App
-Application to validate remote sensing data of HYP
+# Remote Sensing Pilot
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
